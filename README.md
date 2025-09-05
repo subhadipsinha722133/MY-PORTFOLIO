@@ -5,7 +5,7 @@ A modern, responsive portfolio website showcasing my skills as an AIML Engineer 
 # Using Node.js
 npx serve
 - 🌐 Live Deployment
-    - The website can be deployed to:  [Comming soon]()
+    - The website can be deployed to:  [Coming soon]()
 
 - GitHub Pages
 - Netlify
