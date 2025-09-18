@@ -7,18 +7,6 @@ A modern, responsive portfolio website showcasing my skills as an AIML Engineer 
 
 ---
 
-# Using Node.js🤖
-npx serve
-- 🌐 Live Deployment
-    - The website can be deployed to:  [Coming soon]()
-
-- GitHub Pages
-- Netlify
-- Vercel
-- Any static hosting service
-
----
-
 # 🚀 Features🧑‍💻
 - 3D Background Animation using Three.js
 - Responsive Design that works on all devices
