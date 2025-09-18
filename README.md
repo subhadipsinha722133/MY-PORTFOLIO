@@ -1,8 +1,13 @@
-# Subhadip Sinha Portfolio Website
+# Subhadip Sinha Portfolio Website📺
 A modern, responsive portfolio website showcasing my skills as an AIML Engineer and Full Stack Developer with interactive 3D elements.
 
+---
+## Live Demo📺
+🔗[Demo Link](https://subha-dip-portfolio.netlify.app/)
 
-# Using Node.js
+---
+
+# Using Node.js🤖
 npx serve
 - 🌐 Live Deployment
     - The website can be deployed to:  [Coming soon]()
@@ -12,7 +17,9 @@ npx serve
 - Vercel
 - Any static hosting service
 
-# 🚀 Features
+---
+
+# 🚀 Features🧑‍💻
 - 3D Background Animation using Three.js
 - Responsive Design that works on all devices
 - Interactive Project Cards with hover effects
@@ -22,7 +29,9 @@ npx serve
 - Contact Form functionality
 - Back to Top button
 
-# 🛠️ Technologies Used
+---
+
+# 🛠️ Technologies Used📑
 
 - HTML5 - Structure and content
 - CSS3 - Styling and animations
@@ -31,6 +40,8 @@ npx serve
 - Vanilla Tilt.js - Card hover effects
 - Font Awesome - Icons
 - Google Fonts - Typography (Poppins)
+
+---
 
 # 📁 Project Structure
 - text
@@ -48,6 +59,9 @@ portfolio-website/<br>
 │   ├── me.jpg          # Creative work photo<br>
 │   └── video.png       # Video thumbnails<br>
 └── README.md           # This file<br>
+
+---
+
 # 🎯 Sections
 - Hero Section - Introduction with 3D background<br>
 - About Me - Personal information and skills
@@ -59,6 +73,8 @@ portfolio-website/<br>
 - Contact - Contact form and information
 - Footer - Navigation and social links
 
+---
+
 # 📋 Setup Instructions
 - Clone the repository:
     - bash <br>
@@ -69,5 +85,3 @@ portfolio-website/<br>
   - cd portfolio-website <br>
   - Open index.html in your browser or use a local server:<br>
 
-
-# 🔧 Customization
